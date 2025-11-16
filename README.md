@@ -1,4 +1,4 @@
-# 🥐 About Me
+# 💻 About me 💻
 
 🛠️ I’m currently working on  
 - Full-stack web applications with AI/ML integration
@@ -25,7 +25,7 @@
 - Video editing tools, automation, startup setup
 
 ⚡ Fun fact  
-I fight the modern dev burnout with calisthenics & apply daily biohacking
+- I fight the modern dev burnout with calisthenics & apply daily biohacking
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lanternsflame) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cesare-torchia) 
